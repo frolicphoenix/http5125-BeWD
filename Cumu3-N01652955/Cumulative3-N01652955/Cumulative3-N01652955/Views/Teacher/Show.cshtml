@@ -1,0 +1,20 @@
+﻿﻿@model Cumulative3_N01652955.Models.Teacher
+
+@{
+    ViewBag.Title = "Show";
+}
+
+<h2>Show</h2>
+
+<h2>Show</h2>
+<nav>
+    <a class="navlink" href="/Teacher/List">Back To Teachers</a>
+    <a class="navlink" href="/teacher/Update/@Model.TeacherId">Update</a>
+    <a class="dellink" href="/Teacher/DeleteConfirm/@Model.TeacherId">Delete</a>
+</nav>
+    <div id="containershow">
+        <h2>@Model.TeacherFname @Model.TeacherLname</h2>
+        <p class="fw-bold">Hired on : @Model.HireDate.ToShortDateString()</p>
+        <p class="fw-bold">Salary : @Model.Salary</p>
+       
+    </div>
