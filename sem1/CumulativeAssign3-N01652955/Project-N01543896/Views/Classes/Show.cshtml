@@ -1,0 +1,13 @@
+﻿@model Project_N01543896.Models.Classes
+@{
+    ViewBag.Title = "Show";
+}
+
+<h2>Show Details</h2>
+
+<a class="navlink" href="/Classes/List">Back To Classes</a>
+<div id="containershow">
+    <h2 class="m-2">@Model.classCode -@Model.className</h2>
+    <p class="fw-bold m-1">Start Date : @Model.startDate.ToShortDateString()</p>
+    <p class="fw-bold m-1">Finish Date : @Model.finishDate.ToShortDateString()</p>
+</div>
