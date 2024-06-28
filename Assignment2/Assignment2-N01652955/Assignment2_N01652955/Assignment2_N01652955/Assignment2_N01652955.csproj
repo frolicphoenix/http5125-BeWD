@@ -158,6 +158,7 @@
     <Compile Include="Controllers\CalorieCountController.cs" />
     <Compile Include="Controllers\DiceGameController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SecretInstructionsController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C65B2E55-41F2-4B2A-BFCE-C953B09815D4}|Assignment2_N01652955\\Assignment2_N01652955.csproj|c:\\arceus\\http5125-backend-webdev1\\http5125-bewd\\assignment2\\assignment2-n01652955\\assignment2_n01652955\\assignment2_n01652955\\controllers\\secretinstructionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B2E55-41F2-4B2A-BFCE-C953B09815D4}|Assignment2_N01652955\\Assignment2_N01652955.csproj|solutionrelative:assignment2_n01652955\\controllers\\secretinstructionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C65B2E55-41F2-4B2A-BFCE-C953B09815D4}|Assignment2_N01652955\\Assignment2_N01652955.csproj|c:\\arceus\\http5125-backend-webdev1\\http5125-bewd\\assignment2\\assignment2-n01652955\\assignment2_n01652955\\assignment2_n01652955\\controllers\\caloriecountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C65B2E55-41F2-4B2A-BFCE-C953B09815D4}|Assignment2_N01652955\\Assignment2_N01652955.csproj|solutionrelative:assignment2_n01652955\\controllers\\caloriecountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C65B2E55-41F2-4B2A-BFCE-C953B09815D4}|Assignment2_N01652955\\Assignment2_N01652955.csproj|c:\\arceus\\http5125-backend-webdev1\\http5125-bewd\\assignment2\\assignment2-n01652955\\assignment2_n01652955\\assignment2_n01652955\\controllers\\dicegamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C65B2E55-41F2-4B2A-BFCE-C953B09815D4}|Assignment2_N01652955\\Assignment2_N01652955.csproj|C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\assignment2_n01652955\\controllers\\dicegamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C65B2E55-41F2-4B2A-BFCE-C953B09815D4}|Assignment2_N01652955\\Assignment2_N01652955.csproj|solutionrelative:assignment2_n01652955\\controllers\\dicegamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -31,25 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SecretInstructionsController.cs",
+              "DocumentMoniker": "C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\Assignment2_N01652955\\Controllers\\SecretInstructionsController.cs",
+              "RelativeDocumentMoniker": "Assignment2_N01652955\\Controllers\\SecretInstructionsController.cs",
+              "ToolTip": "C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\Assignment2_N01652955\\Controllers\\SecretInstructionsController.cs",
+              "RelativeToolTip": "Assignment2_N01652955\\Controllers\\SecretInstructionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:34:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CalorieCountController.cs",
               "DocumentMoniker": "C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\Assignment2_N01652955\\Controllers\\CalorieCountController.cs",
               "RelativeDocumentMoniker": "Assignment2_N01652955\\Controllers\\CalorieCountController.cs",
               "ToolTip": "C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\Assignment2_N01652955\\Controllers\\CalorieCountController.cs",
               "RelativeToolTip": "Assignment2_N01652955\\Controllers\\CalorieCountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAWAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T20:00:16.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DiceGameController.cs",
               "DocumentMoniker": "C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\Assignment2_N01652955\\Controllers\\DiceGameController.cs",
               "RelativeDocumentMoniker": "Assignment2_N01652955\\Controllers\\DiceGameController.cs",
               "ToolTip": "C:\\ARCEUS\\HTTP5125-BackEnd-WebDev1\\http5125-BeWD\\Assignment2\\Assignment2-N01652955\\Assignment2_N01652955\\Assignment2_N01652955\\Controllers\\DiceGameController.cs",
               "RelativeToolTip": "Assignment2_N01652955\\Controllers\\DiceGameController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T19:46:40.651Z",
               "EditorCaption": ""
